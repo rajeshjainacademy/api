@@ -1,8 +1,19 @@
 {
-  "posts": [
+  "students": [
     {
       "id": 1,
-      "title": "hello"
+      "rollno": 1
+      "name": "Sachin"
+    },
+    {
+      "id": 2,
+      "rollno": 2
+      "name": "Rahul"
+    },
+    {
+      "id": 3,
+      "rollno": 3
+      "name": "Saurav"
     }
   ],
   "profile": {
