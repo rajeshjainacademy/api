@@ -3,17 +3,32 @@
     {
       "id": 1,
       "rollno": 1,
-      "name": "Sachin"
+      "name": "Sachin",
+      "addressId":1
     },
     {
       "id": 2,
       "rollno": 2,
-      "name": "Rahul"
+      "name": "Rahul",
+      "addressId":2
     },
     {
       "id": 3,
       "rollno": 3,
-      "name": "Saurav"
+      "name": "Saurav",
+      "addressId":3
+    }
+  ],
+  "address":[
+    { "id": 1,
+    "Building": "Audumvar - 109",
+    "Street":"Sinhagad Road",
+    "City": "Pune"
+    },
+    { "id": 3,
+    "Building": "325, Alka Society",
+    "Street":"Shivaji Nagar",
+    "City": "Pune-30"
     }
   ],
   "profile": {
